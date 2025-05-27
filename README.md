@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rebuildaio</h1>
 <h3 align="center">A collaborative space for project ideas, guiding you from beginner basics to expert level.</h3>
 
-- 🔭 I’m currently working on **Beginner level projects**
-
+- 🔭 I’m currently focusing on **Beginner level projects,**
+- 🔭 We are going step by step so that a beginner level developer should know what to do next in this developer journey.
+- 👨‍💻 We are just building or providing projects ideas in form of series.
 - 👨‍💻 All of my projects are available at [https://github.com/rebuildaio](https://github.com/rebuildaio)
 
-- 📫 How to reach me **rebuildspport@gmail.com**
+- 📫 You can reach us through **rebuildspport@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
